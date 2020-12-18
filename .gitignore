@@ -1,9 +1,12 @@
 # ignore everything in the root except the "wp-content" directory.
 !wp-content/
+*.php
 
+# то, что сюда помещаю после ! - это будет видно
 # ignore everything in the "wp-content" directory, except:
 # "mu-plugins", "plugins", "themes" directory
 wp-content/*
+!wp-content/uploads/
 !wp-content/mu-plugins/
 !wp-content/plugins/
 !wp-content/themes/
@@ -11,13 +14,19 @@ wp-content/*
 # ignore these plugins
 wp-content/plugins/hello.php
 
+# игнорировать определенные темы (перечисленные здесь!)
 # ignore specific themes
 wp-content/themes/twenty*/
 
+# игнорировать ПАПКУ со всеми зависимостями (если есть!)
 # ignore node dependency directories
 node_modules/
 
 # ignore log files and databases
 *.log
-*.sql
-*.sqlite
+# *.sql
+# *.sqlite
+
+/.idea/
+/wp-admin/
+/wp-includes/

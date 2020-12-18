@@ -1,6 +1,6 @@
 # ignore everything in the root except the "wp-content" directory.
 !wp-content/
-*.php
+# *.php
 
 # то, что сюда помещаю после ! - это будет видно
 # ignore everything in the "wp-content" directory, except:
@@ -30,3 +30,5 @@ node_modules/
 /.idea/
 /wp-admin/
 /wp-includes/
+wp-config.php
+wp-settings.php

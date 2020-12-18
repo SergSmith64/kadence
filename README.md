@@ -11,3 +11,8 @@ Kadence theme + Woocommerce PHP
 * What The File (1.5.4 -- Never5)
 
 3. Install the Kadence-theme and Kadence starter templates plugin, chose Gutenberg, template Print Shop and Full Site.
+
+4. Install the required plugins:
+* Page Template Dashboard (1.7.0 -- Tom McFarlin)
+* WordPress Database Backup (2.3.3 -- Austin Matzko)
+

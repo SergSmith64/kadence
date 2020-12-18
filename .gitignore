@@ -7,8 +7,8 @@
 # "mu-plugins", "plugins", "themes" directory
 wp-content/*
 !wp-content/uploads/
-!wp-content/mu-plugins/
-!wp-content/plugins/
+# !wp-content/mu-plugins/
+# !wp-content/plugins/
 !wp-content/themes/
 
 # ignore these plugins

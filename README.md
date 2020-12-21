@@ -16,3 +16,5 @@ Kadence theme + Woocommerce PHP
 * Page Template Dashboard (1.7.0 -- Tom McFarlin)
 * WordPress Database Backup (2.3.3 -- Austin Matzko)
 
+5. Export File DB: kadence_wp_20201221_43_tables.sql (standart)
+

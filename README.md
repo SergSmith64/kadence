@@ -18,3 +18,4 @@ Kadence theme + Woocommerce PHP
 
 5. Export File DB: kadence_wp_20201221_43_tables.sql (standart)
 
+6. Install plugin Enable Media Replace (3.5.0) + Edit content

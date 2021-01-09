@@ -23,3 +23,5 @@ Kadence theme + Woocommerce PHP
 7. Add content and categories
 
 8. Adding final content & Install plugin: Contact Form 7 (5.3.2 -- Takayuki Miyoshi)
+
+9. Install plugins: Duplicator (1.3.40.1 -- Snap Creek) & Activity Log (2.6.0 -- Activity Log Team)
